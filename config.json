@@ -1,0 +1,8 @@
+{
+    "LOGIN_URL": "https://enotes.pointschool.ru/login",
+    
+    "testUser": {
+    "username": "test",
+    "password": "test"
+}
+}
